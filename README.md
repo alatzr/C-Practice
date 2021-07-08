@@ -1,7 +1,7 @@
 # c++的练习题
-C++练习题
+**C++练习题
 
-(1)数塔问题
+**(1)数塔问题
 ```
 /*
 
@@ -62,7 +62,7 @@ int main()
 	return 0;
 }
 ```
-(2)Fibonacci
+**(2)Fibonacci
 ```
 # include <iostream>
 
