@@ -8,9 +8,7 @@ int main()
     int a[110];
     
     cin >> n;
-    
     for (i = 0; i < n; i++) cin >> a[i];
-    
     for (i = 1; i < n; i++)
     {   
         k = a[i];
@@ -23,8 +21,6 @@ int main()
         }
         a[j+1] = k;
     }
-    
     for (int i = 0; i < n; i++) cout << a[i] << ' ';
-    
     return 0;
 }
