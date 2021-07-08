@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int gcd(int a, int b);
+int gcd(int a, int b);  // 先进行声明
 
 int main()
 {
@@ -16,7 +16,7 @@ int gcd(int a, int b)
 {
     int r;
     r = a % b;
-    while (r)
+    while (r)  // 辗转相除法
     {
         a = b;
         b = r;
