@@ -1,4 +1,4 @@
-Vector 容器的例子
+# Vector 容器的例子
 
 ```
 # include <iostream>
@@ -8,10 +8,10 @@ using namespace std;
 
 int main() {
     
-    vector<int>add;
+    vector<int>add;   // vector<数据类型> 名字
     for (int i = 0; i <= 10; i++)
     {
-        add.push_back(i);
+        add.push_back(i);      // push_back(arrt)往容器末尾增加内容
         cout << add[i] << '|';
     }
     cout << endl;
@@ -19,7 +19,7 @@ int main() {
     int n = 10;
     while(n > 5) 
     {
-        add.pop_back();
+        add.pop_back();  // pop_back()默认删除末尾内容
         n--;
     }
     
@@ -30,5 +30,7 @@ int main() {
 
 ```
 *输出：*
+
 0|1|2|3|4|5|6|7|8|9|10|
+
 0|1|2|3|4|5|
