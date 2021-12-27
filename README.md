@@ -40,6 +40,6 @@
 
 (3) [选择](https://github.com/alatzr/C-Practice/blob/main/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.cpp)
 
-(4) [快排](url)
+(4) [快排](https://github.com/alatzr/C-Practice/blob/main/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%80%9D%E8%B7%AF.py)
 
 (5) [桶排序](https://github.com/alatzr/C-Practice/blob/main/%E6%A1%B6%E6%8E%92%E5%BA%8F.cpp)
